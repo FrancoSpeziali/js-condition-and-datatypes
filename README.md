@@ -1,9 +1,6 @@
-# Loop the loop!
+# Conditions and Datatypes
 
-Don't get stuck in a loop!
-
-We can use loops to make hard work easy by having the computer do the work
-for us.
+Practise assignments
 
 ## Installation
 
@@ -64,5 +61,3 @@ via the GitHub interface.
 ## Assignments
 
 See the file `assignments.js` for details
-
-![Roller coaster](./rollercoaster.jpg)
